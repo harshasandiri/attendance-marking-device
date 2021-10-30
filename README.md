@@ -2,8 +2,8 @@
 ==================================================================
 
 - Controlled by an ARM Cortex-M4 (STM32F429ZIT) 
-- Fingerprint sensor interfaced using UART protocol. ([fingerprint.c](Src/fingerprint.c))
-- Enclosed in a 3D-printed ergonomic enclosure
+- Fingerprint sensor talks to the Cortex-M4 via UART. ([fingerprint.c](Src/fingerprint.c))
+- Enclosed in a 3D-printed ergonomic enclosure.
 
 ![Picture4](https://user-images.githubusercontent.com/93194810/139519169-124b6dec-0a32-47c9-acff-7edaa8f35ce3.png)
 

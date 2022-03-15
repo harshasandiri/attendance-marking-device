@@ -31,6 +31,3 @@
 - Registering a Fingerpirnt : 
 
 ![3](https://user-images.githubusercontent.com/93194810/139519335-241b4d46-4e56-48aa-a761-d2d437b5a8c8.jpg)
-
-
--- *Designed and Developed by Harsha Sandirigama* --
